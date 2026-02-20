@@ -1,2 +1,2 @@
 # Dynamic-Grass-FABRIK-like-implementation
-So i recently messed around with pygame after 2 years of competitive programming, this is my 11th project, not quite finished but im proud of the progress
+So I recently messed around with PyGame after 2 years of competitive programming. This is my 11th project, not perfect but I'm seeing progress
