@@ -37,4 +37,6 @@ Update 0.2:
 Update 0.3:
     Optimization:
     - Only check the current chunk and its left/right adjacents
+    - Limited blades-per-chunk to 50
+
     - Removed grass-to-grass collision
