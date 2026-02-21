@@ -22,7 +22,7 @@ Update 0.2:
 Update 0.3:
     Optimization:
     - Only check the current chunk and its left/right adjacents
-    - Removed grass-to-grass collision
+    - Created both versions in separate folders for reference (I had both uploaded in this repository, so you can check them out)
 
 Complexity:
 - with grass-to-grass collision: O(local * local + chunks * local)
