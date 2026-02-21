@@ -1,0 +1,1 @@
+bottom_edge = (player_y//CHUNK_SIZE+1) * CHUNK_SIZE
