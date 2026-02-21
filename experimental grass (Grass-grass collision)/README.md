@@ -17,7 +17,7 @@ Why the chunks?:
     - For this version, I made blade to blade collision -> checking_local_blades^2
 
     - The reason why I did not cover the whole 3x3 area is that when a blade is created, it would get automatically snapped to the bottom edge of its current chunk
-    - Therefore no need for 3x3, we only need to check the current chunk and its left/right adjacent chunks
+    - Therefore, no need for 3x3, we only need to check the current chunk and its left/right adjacent chunks
 
 Update 0.1:
     - Fixed grass flipped upside down
@@ -37,3 +37,4 @@ Update 0.2:
 Update 0.3:
     Optimization:
     - Only check current chunk and its left/right adjacents
+    - Limited blades-per-chunk to 50
