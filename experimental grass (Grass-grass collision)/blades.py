@@ -239,4 +239,3 @@ class Chunks:
                 text = font.render(f"{cx},{cy}", True, (150, 150, 150))
                 screen.blit(text, (x + 4, y + 4))
                 
-# bitch....
